@@ -1,16 +1,16 @@
 {
-"name": "member88",
-"theme": "member88",
-"version": "9.9.6",
-"description": "member88 สมัครเว็บคาสิโนเว็บตรง ระบบออโต้ ให้เครดิตฟรี",
-"keywords": [
-"member88",
-"member88 เครดิตฟรี",
-"member88 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/member88",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "member88",
+  "theme": "member88",
+  "version": "9.10.0",
+  "description": "member88 สมัครเว็บคาสิโนเว็บตรง ระบบออโต้ ให้เครดิตฟรี",
+  "keywords": [
+    "member88",
+    "member88 เครดิตฟรี",
+    "member88 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/member88",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
